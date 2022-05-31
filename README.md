@@ -1,6 +1,6 @@
 # Overview
 
-App Customizer is GUI interface to create new app for new customer faster and simpler. Within it, you can add text/image service or new template
+App Customizer is GUI interface to create new app for new customer faster and simpler. Within it, you can add text/image Azure service or new template
 
 
 # Platform and Tools
